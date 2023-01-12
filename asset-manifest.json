@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-redux-toolkit-app/static/css/main.fc122aa2.css",
+    "main.js": "/goit-react-redux-toolkit-app/static/js/main.3e2ddca7.js",
+    "index.html": "/goit-react-redux-toolkit-app/index.html",
+    "main.fc122aa2.css.map": "/goit-react-redux-toolkit-app/static/css/main.fc122aa2.css.map",
+    "main.3e2ddca7.js.map": "/goit-react-redux-toolkit-app/static/js/main.3e2ddca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc122aa2.css",
+    "static/js/main.3e2ddca7.js"
+  ]
+}
